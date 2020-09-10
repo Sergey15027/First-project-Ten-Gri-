@@ -1,0 +1,20 @@
+@font-face {
+	font-family: "Krona";
+	src: url("/fonts/Krona/KronaOne-Regular");
+	font-style: bold;
+	font-weight: bold;
+}
+@font-face {
+	font-family: "Gayathri";
+	src: url("/fonts/Gayathri/Gayathri-Thin");
+	src: url("/fonts/Gayathri/Gayathri-Regular"),
+	 url("/fonts/Gayathri-Bold") ;
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "OpenSans";
+	src: url("/fonts/OpenSans/OpenSans-Light");
+	font-style: normal;
+	font-weight: normal;
+}
